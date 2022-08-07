@@ -4707,5 +4707,1883 @@
     "DCEPC14A": [],
     "IRECSQRT": [],
     "TAP2014F": [],
-    "PONY2": []
+    "PONY2": [],
+    "VECTAR1": [],
+    "ADACON": [
+        "number-theory"
+    ],
+    "CCROSS": [],
+    "DCEPC11J": [],
+    "KPSORT": [],
+    "ROCKETS": [],
+    "KPRIMES2": [
+        "sieve-of-eratosthenes"
+    ],
+    "TRIBE2": [],
+    "NSQUARE2": [],
+    "MATNUM": [],
+    "EDIT3": [],
+    "ROOT": [],
+    "FOLD": [],
+    "MCOCIR": [],
+    "DGAME": [],
+    "CONTEST": [],
+    "GRIDCOIN": [],
+    "MOON1": [],
+    "LABYR2": [],
+    "DCEPC301": [],
+    "ACPC10H": [],
+    "PAINTTMP": [],
+    "LIGHTS3": [
+        "bubble-cup-9-round-2"
+    ],
+    "CMPANS": [],
+    "DERP": [],
+    "GAMARENA": [],
+    "TRIEQUAL": [],
+    "ADDLCM": [],
+    "JUMPY": [],
+    "ASCIRC": [],
+    "DIFFDIAG": [],
+    "STC04": [],
+    "NKDIV": [
+        "number-theory",
+        "game-theory-1"
+    ],
+    "MARIOGAM": [],
+    "BOCOMP": [],
+    "LIGHTPZ": [],
+    "KKKCT2": [],
+    "MMINMAX": [],
+    "GCDMAT2": [
+        "number-theory"
+    ],
+    "THEPOOL": [],
+    "SDGAME2": [
+        "bubble-cup-7-round-1"
+    ],
+    "PAINTBLC": [],
+    "MILPATR": [],
+    "CODGRF": [],
+    "COD1": [
+        "ad-hoc-1"
+    ],
+    "SUMSLOPE": [],
+    "FN16OIL": [],
+    "REPAIR1": [
+        "math",
+        "probability-theory",
+        "dynamic-programming"
+    ],
+    "DIVCON": [],
+    "COMBAT": [
+        "tree",
+        "binary-search"
+    ],
+    "MINSEQ": [],
+    "ROUNDT": [],
+    "MABJ": [],
+    "GASOLINE": [],
+    "ADDGP": [],
+    "GCPC11E": [],
+    "CANPR": [
+        "totient-2"
+    ],
+    "SEGTREE": [
+        "bubble-cup-7-round-1"
+    ],
+    "ANARC09I": [],
+    "LFM": [],
+    "IOPC1201": [],
+    "WINGOLD": [],
+    "CAKE": [],
+    "MYLOGEXP": [],
+    "PERMUT3": [],
+    "CHRIS": [],
+    "IOIISL08": [],
+    "MAXISET": [],
+    "GOODD": [],
+    "COU": [],
+    "MGCSCLS": [],
+    "FLING1": [
+        "bubble-cup-7-round-2"
+    ],
+    "HEADQRT": [],
+    "GOC11B": [
+        "goc-s01e01"
+    ],
+    "PHDISP": [],
+    "POLYCODE": [],
+    "ARRANGE2": [],
+    "BICYCLE": [],
+    "ADAKOHL": [
+        "number-theory",
+        "geometry"
+    ],
+    "KIMO1": [],
+    "KNMD": [],
+    "GOODE": [],
+    "AE5B1": [],
+    "POLYEQ": [],
+    "DONUT": [],
+    "BOI7ESC": [],
+    "BDOI16C": [],
+    "VOL": [],
+    "SC1": [],
+    "CDC12_E": [],
+    "LINEGAR": [],
+    "CIRCLES": [],
+    "AMATH": [],
+    "HIGHWAY": [],
+    "MOZHSLS": [],
+    "ADAHW": [
+        "number-theory",
+        "fast-prime-factorization"
+    ],
+    "TAP2016J": [],
+    "AMR11C": [],
+    "NITK07": [
+        "bubble-cup-8-round-1"
+    ],
+    "BNWNIM": [],
+    "CATMO1": [
+        "game",
+        "bubble-cup-9-round-1"
+    ],
+    "ALTPERM": [],
+    "SCANNER": [],
+    "AREA1": [],
+    "MAIN73": [],
+    "GETBACK": [],
+    "GREMLINS": [],
+    "MYSTIC": [
+        "math",
+        "dynamic-programming"
+    ],
+    "HLPRSRCH": [],
+    "BLOCKS": [],
+    "RAIL": [],
+    "VZLA2019D": [],
+    "NWERC10G": [],
+    "CHEESE": [],
+    "IZHONYT": [],
+    "MCONVERT": [
+        "big-numbers"
+    ],
+    "SUDOGOB": [],
+    "XUDOKU": [
+        "bitwise"
+    ],
+    "BPM2": [
+        "math",
+        "divide-and-conquer",
+        "greedy",
+        "binary-search",
+        "hashing"
+    ],
+    "PKA": [],
+    "EDIT1": [],
+    "IGAME": [],
+    "TREEBA": [],
+    "ALIEN0": [],
+    "CCCCUBE": [],
+    "PERFSQNUM": [
+        "math",
+        "number-theory",
+        "adhoc"
+    ],
+    "AMR11I": [],
+    "MDOSTAVA": [],
+    "DTRAP": [],
+    "GEN2": [],
+    "DIVFACT4": [
+        "fast-prime-counting"
+    ],
+    "SEQPAR2": [],
+    "MATHII": [],
+    "GUMATH2": [],
+    "MCU20A": [],
+    "HIGHWAY1": [],
+    "CRYPTO4": [],
+    "PROGPROG": [],
+    "DWRONG": [],
+    "TTABLE": [],
+    "DOMINO2": [],
+    "SKIING": [],
+    "CODPABBU": [],
+    "UNIHW": [],
+    "ADASQR": [
+        "datastructures",
+        "sweep",
+        "precalculation",
+        "twopointers"
+    ],
+    "LCPC12B": [],
+    "DANDVIOL": [],
+    "DESERT": [],
+    "DRAWQUAD": [],
+    "IOPC1200": [],
+    "MATRICA": [],
+    "ZAMENA": [],
+    "VZLA2019G": [],
+    "ACC": [],
+    "PONY1": [],
+    "ZSEQ": [],
+    "PTRI": [],
+    "PLATON": [],
+    "DIST": [],
+    "FOOTBALL": [],
+    "NCKLCE": [],
+    "UOFTCG": [],
+    "COMPLETE": [],
+    "INS17M": [
+        "math"
+    ],
+    "ADATOMAT": [
+        "sorting"
+    ],
+    "LEXBRAC": [],
+    "TLL237": [],
+    "VPARTY": [],
+    "HHEMANT": [],
+    "GOODC": [],
+    "CODESPTD": [],
+    "ADAHACK": [
+        "number-theory",
+        "inversion"
+    ],
+    "SIMPGAME": [],
+    "STRNGSLV": [],
+    "SUMDEC2": [
+        "number-theory"
+    ],
+    "NWERC11I": [],
+    "TOPCODE": [],
+    "ADAPANEL": [
+        "combinatorics",
+        "scc"
+    ],
+    "NINJA8": [],
+    "BTCODE_E": [],
+    "FACTOR1": [],
+    "PRENDON": [],
+    "SANTA2": [
+        "bubble-cup-9-round-2"
+    ],
+    "TAP2014I": [],
+    "NUMTHEO01": [
+        "math-number-theory"
+    ],
+    "DST": [
+        "graph-theory",
+        "dynamic-programming"
+    ],
+    "WPC4C": [],
+    "MPOINT": [],
+    "PHONMESS": [],
+    "STCKHOLM": [
+        "hangzhou-2008"
+    ],
+    "SELFNUM": [],
+    "NASPRIM": [],
+    "TOUGH": [
+        "gcd",
+        "number-theory-13"
+    ],
+    "DCEPC12B": [],
+    "TRKNIGHT": [],
+    "SAMER08H": [],
+    "NPC2014G": [
+        "math",
+        "adhoc"
+    ],
+    "SWJAM": [],
+    "ININT": [],
+    "LOTGAME": [],
+    "PSYCHOT": [],
+    "HRSIAM": [
+        "sqrt-decomp"
+    ],
+    "KPOWERSUM": [
+        "math",
+        "number-theory",
+        "modulo-1"
+    ],
+    "ADABLOOM": [
+        "matching",
+        "graph"
+    ],
+    "FLT": [
+        "fermate"
+    ],
+    "ABSHIP": [],
+    "MIDEARTH": [],
+    "INS14J": [],
+    "IITKWPCL": [],
+    "PCPC12H": [],
+    "CDC12_F": [],
+    "VTV1001": [],
+    "SEQN": [],
+    "THREETW1": [],
+    "EGYPAR": [],
+    "ITRIX_D": [],
+    "ROULETTD": [],
+    "ADAPOWER": [
+        "probability-theory"
+    ],
+    "MAFBOI08": [],
+    "DECOY": [],
+    "BOOKWORM": [
+        "counting-1"
+    ],
+    "DUGDUG": [],
+    "MODSEQ": [
+        "adhoc",
+        "constructive"
+    ],
+    "DELIVER": [],
+    "BFTRI": [],
+    "HQNP": [],
+    "KPARCH": [],
+    "BARB": [],
+    "JMPMNKEY": [],
+    "URJC2_F": [],
+    "CHEFJUL": [],
+    "MYQ8": [],
+    "EC": [],
+    "BISHOP2": [],
+    "RATTERN": [],
+    "HOSPITAL": [],
+    "PRJAN15C": [],
+    "SUDOKU2": [],
+    "KPGRAPHS": [],
+    "CARDFLIP": [
+        "tree"
+    ],
+    "CHAOS_CC": [],
+    "VPL0_C": [],
+    "DCEPC604": [],
+    "SA04C": [],
+    "VZLA2019J": [],
+    "CT23E": [],
+    "ILD18ACP": [],
+    "GOIT": [],
+    "UCUBE": [],
+    "GIWED": [],
+    "UCODES": [],
+    "CIRCLE_H": [],
+    "PUCMMT02": [],
+    "MULSORT": [
+        "sorting"
+    ],
+    "NECKDEC": [],
+    "MAXSET": [],
+    "IITD5": [],
+    "PIB": [],
+    "APIO14_A": [],
+    "COPYDNA": [],
+    "LTRAFFIC": [],
+    "STARGATE": [],
+    "MKPAIRS": [],
+    "YOSSY": [
+        "branchandbound",
+        "bubble-cup-9-round-1"
+    ],
+    "STACK": [],
+    "VZLA2019I": [],
+    "CHEFFEB": [],
+    "CDC12_D": [],
+    "TAP2014K": [],
+    "TAP2016G": [],
+    "NAJ0001": [],
+    "BYU15W_2": [],
+    "NUM08": [],
+    "SNOWGAME": [],
+    "ALTARS": [],
+    "STRAZA": [],
+    "ZZPERM": [],
+    "NARHIL": [
+        "datastructures"
+    ],
+    "CQM1TREE": [],
+    "RNUMBER": [],
+    "AVDM": [],
+    "BTTNS": [],
+    "FSEQ": [],
+    "BPORT": [],
+    "BNYINT": [
+        "hangzhou-2008"
+    ],
+    "FRACTAN": [],
+    "TTRGRAPH": [
+        "graph-theory",
+        "graph",
+        "clique"
+    ],
+    "SAS003": [
+        "binary-search"
+    ],
+    "TLIGHTS": [],
+    "TENNIS": [],
+    "KNPSACK": [],
+    "LIFTS": [],
+    "ONEXLIS": [],
+    "SACITY": [
+        "bit-3"
+    ],
+    "HSHW": [
+        "adhoc"
+    ],
+    "ARRHUDAI": [],
+    "NWERC11J": [],
+    "ADAPLNTS": [],
+    "TAP2013F": [],
+    "LDP": [
+        "numbertheory",
+        "gcd-29",
+        "lcm-4"
+    ],
+    "ABA12B": [],
+    "IQUERY": [],
+    "TLPNGEM": [],
+    "SUBWAYPL": [],
+    "BUILD": [],
+    "WINDOW1": [],
+    "CPDUEL5B": [],
+    "EVERLAST": [],
+    "COMPASS": [],
+    "ADAQUBIC": [
+        "dynamic-programming",
+        "game-theory-1",
+        "optimization"
+    ],
+    "SNGCP": [],
+    "CYCLERUN": [],
+    "CAVLI": [],
+    "DCEPC11E": [
+        "bubble-cup-9-round-1"
+    ],
+    "SAMBOX": [
+        "datastructures"
+    ],
+    "BLOCK": [],
+    "BEMINE": [],
+    "FRMT": [],
+    "CSEGIRLS": [],
+    "COT4": [
+        "tree"
+    ],
+    "C2CRNI": [],
+    "LASER": [],
+    "IITWPC4E": [
+        "tree"
+    ],
+    "MY02": [],
+    "ALIENS1": [],
+    "IPAD": [],
+    "BFROTATE": [],
+    "FACTMULP": [],
+    "ATOURISM": [],
+    "ADVNTURE": [],
+    "PRLGAME": [],
+    "BRII": [],
+    "VZLA2019B": [],
+    "KSELECT": [],
+    "OTOY1": [],
+    "MOLE": [],
+    "NECKLACE": [],
+    "FIBOSUM2": [],
+    "AVMG1": [],
+    "GMMOD": [],
+    "UNHAPPY": [],
+    "FISHES": [],
+    "CKEWLK": [
+        "math",
+        "factorisation",
+        "adhoc"
+    ],
+    "ASSIGN5": [
+        "bubble-cup-7-round-2"
+    ],
+    "WRONG": [],
+    "SELFDESN": [],
+    "POWTOW": [
+        "math",
+        "number-theory"
+    ],
+    "TOSCORE": [],
+    "PERMCODE": [],
+    "TPCPPLAR": [],
+    "COMFUNC": [],
+    "SIGNGAME": [],
+    "GRAVEYRD": [],
+    "SHANGUL": [],
+    "PRLOVE": [],
+    "COMPRESS": [
+        "shanghai-2009"
+    ],
+    "TRAPEZBO": [],
+    "ONEINSTR": [
+        "bubble-cup-7-round-2"
+    ],
+    "HS08EQ": [],
+    "CT10R3B": [],
+    "ELASTIC": [],
+    "IITWPC4K": [],
+    "YASSP": [],
+    "DIFFV": [],
+    "STO": [],
+    "QBALL": [],
+    "VPL2_AD": [],
+    "PCPC12G": [],
+    "MACHCOOL": [],
+    "STC00": [],
+    "AHOCUR": [],
+    "CHARLIE": [],
+    "SERVICEH": [],
+    "MMMAGIC6": [
+        "bubble-cup-8-round-2"
+    ],
+    "DCEPCA02": [],
+    "DCEPCA04": [],
+    "WITTY": [],
+    "HASTOCK": [],
+    "IITKWPCC": [],
+    "TOP10": [],
+    "SAWMILL": [],
+    "TAP2016L": [],
+    "INDEXGEN": [],
+    "TAP2012H": [],
+    "TRECOUNT": [],
+    "GENETICS": [],
+    "LNTILING": [],
+    "DIGCNT": [],
+    "UDIVSUM": [
+        "dirichlet-convolution"
+    ],
+    "SPIN": [],
+    "CAVE": [],
+    "VZLA2019C": [],
+    "PRJAN15E": [],
+    "MULTIPLY": [],
+    "INS14L": [],
+    "PLOVER": [
+        "dynamic-programming"
+    ],
+    "TAP2015K": [],
+    "OKRET": [],
+    "UCBINTH": [],
+    "RLCAT": [],
+    "HASH": [],
+    "SE7EN": [
+        "dfs"
+    ],
+    "TANDC": [],
+    "ATMCMXNG": [],
+    "AGPREFX": [],
+    "MMMAGIC4": [],
+    "BALLLSTA": [],
+    "KVALTWR": [],
+    "NPC2016C": [],
+    "SALTOS": [],
+    "FRSCR": [
+        "binarysearch-1"
+    ],
+    "BRCKGAME": [],
+    "TAN1": [],
+    "PRETTY": [],
+    "ADACHESS": [],
+    "TWENTYQ": [],
+    "BOMB": [],
+    "REDRONESIA": [],
+    "PLUS": [],
+    "LCPC12G": [],
+    "CERC07L": [],
+    "CNTINDX2": [],
+    "PRETTYP": [],
+    "LANDFILL": [],
+    "BOMBER1": [],
+    "NANO": [
+        "simple-math",
+        "shortest-path"
+    ],
+    "ADAFENCE": [
+        "datastructures",
+        "pointers"
+    ],
+    "DCEPC703": [],
+    "FRSKT": [],
+    "TAP2015F": [],
+    "NINJA6": [],
+    "PRIME": [],
+    "TETRIS2D": [
+        "shanghai-2009"
+    ],
+    "TAP2016F": [],
+    "VPL0_D": [],
+    "ADV04I1": [],
+    "NWERC11G": [],
+    "ADASETS": [],
+    "TREEII": [],
+    "TJANDRA2": [],
+    "NR1": [
+        "math",
+        "big-numbers"
+    ],
+    "DURIN": [],
+    "CLEVER": [],
+    "JLNT": [],
+    "WINSTRAT": [],
+    "MTRAIN": [],
+    "HS09GAME": [],
+    "HISIX": [],
+    "SWARM": [],
+    "PWORDS": [],
+    "IOPC1206": [],
+    "IWGBST": [],
+    "VFRIEND2": [
+        "graph-theory"
+    ],
+    "TAP2016H": [],
+    "MYQ3": [],
+    "MAS": [
+        "math",
+        "newyear2017"
+    ],
+    "HIPPO": [],
+    "FLOWERS2": [
+        "shanghai-2009"
+    ],
+    "DCOUNT": [],
+    "ITERBIT": [],
+    "PUBLICAT": [],
+    "LCM": [],
+    "CODESPTC": [],
+    "ENEM": [],
+    "MPOLSTAR": [],
+    "O2JAM": [
+        "shanghai-2009"
+    ],
+    "UCBINTB": [],
+    "STACKOFBOXES": [
+        "binary-search"
+    ],
+    "LAS": [],
+    "TRIBT": [],
+    "SERGEARS": [],
+    "KMSL4B": [],
+    "TCNUMFL": [],
+    "PRMFN": [
+        "dynamic-programming",
+        "greedy",
+        "primality-test"
+    ],
+    "CLOUDMG": [],
+    "PERMSG": [],
+    "RAINBOW2": [],
+    "TAP2015J": [],
+    "GOODF": [],
+    "SITB": [
+        "numbertheory",
+        "fast-prime-factorization",
+        "math-number-theory"
+    ],
+    "BPF1": [
+        "text-processing",
+        "brute-force"
+    ],
+    "IZBORI": [],
+    "BLOPER2": [
+        "sorting",
+        "binary-search",
+        "backtracking"
+    ],
+    "WPC5F": [],
+    "BUNNIES": [],
+    "ORIGLIFE": [],
+    "KINDERPC": [],
+    "SSTRCITS": [],
+    "PARTPLNE": [],
+    "IQTEAM": [],
+    "SHUFFLES": [],
+    "VZLA2019K": [],
+    "AFSK": [],
+    "WHT": [],
+    "IBIGAME": [
+        "dynamic-programming"
+    ],
+    "AVLVKT": [],
+    "WTFM": [],
+    "CERC07W": [],
+    "IEXPOLRE": [
+        "shanghai-2009"
+    ],
+    "HBD": [
+        "graph-theory",
+        "binary-search",
+        "data-structures-19"
+    ],
+    "ANARC09H": [],
+    "CHEFMAR": [],
+    "TWOSUMQUERY": [
+        "binary-search"
+    ],
+    "TAP2015A": [],
+    "HOUSES2": [],
+    "PRJAN15G": [],
+    "EMILABC": [],
+    "GCPC11G": [],
+    "TRIMOD2": [
+        "number-theory"
+    ],
+    "NEXTLEX": [],
+    "DELCOMM2": [],
+    "YKH": [],
+    "JC15F": [],
+    "KUMAR2019": [],
+    "FNINJA": [],
+    "ADV04D": [],
+    "VZLA2019A": [],
+    "FRNDS": [],
+    "MEETSHIP": [],
+    "KOSPC13B": [],
+    "TREEMAZE": [
+        "bubble-cup-8-round-2"
+    ],
+    "DRUNK": [],
+    "FMODF": [],
+    "HEXTILE": [],
+    "TREEOI14": [],
+    "TAP2015G": [],
+    "TAP2016E": [],
+    "XYYHHTT": [],
+    "ACPC10F": [],
+    "DARTS": [],
+    "PONY8": [],
+    "STJEPAN": [],
+    "LARGE": [],
+    "HJB": [],
+    "GALAXY": [],
+    "ADAGIFT": [
+        "primality-test"
+    ],
+    "HCT00001": [],
+    "ADASALE": [],
+    "MYQ12": [],
+    "IE2": [],
+    "PACKRECT": [],
+    "PELL2": [],
+    "CDC12_G": [],
+    "TRANSFER": [
+        "dynamic-programming",
+        "bitmasks",
+        "bubble-cup-9-round-2"
+    ],
+    "DICE1": [],
+    "ALCATRAZ4": [],
+    "ASSEMBLY": [],
+    "POCALC2": [
+        "bubble-cup-8-round-2"
+    ],
+    "TYPESET": [],
+    "ULASER": [],
+    "LOSTBOX": [],
+    "VPL0_A": [],
+    "VPL1_AB": [],
+    "SERIALN": [],
+    "COIN": [],
+    "TWODEL": [],
+    "KL11B": [],
+    "AUT": [],
+    "HEXGRAM": [],
+    "EXPR3": [],
+    "KATHTHI2": [],
+    "MACHCOOL2": [],
+    "IITD1": [],
+    "TROLLS": [],
+    "TABY": [
+        "dynamic-programming"
+    ],
+    "BTCODE_I": [],
+    "ACPC10I": [],
+    "BALLIGHT": [],
+    "LINELAND": [],
+    "CRYPTO6": [
+        "hangzhou-2008"
+    ],
+    "ANARC09J": [],
+    "CARNIVAL": [],
+    "IOPC1205": [],
+    "BILLI": [],
+    "IE4": [],
+    "SUSY": [],
+    "BLUEEQ3": [],
+    "SPLITS": [],
+    "DISNEY": [],
+    "GLASS2": [],
+    "PRLCM": [],
+    "COWGATH": [],
+    "SOCCERCH": [],
+    "TTBRM": [
+        "greedy"
+    ],
+    "YALOP": [],
+    "RESTAURN": [],
+    "FESTIVAL": [],
+    "CEOI08A": [],
+    "ALLBARN2": [],
+    "LQDNUMS": [],
+    "MOOPIZZA": [],
+    "CASTANET": [],
+    "AHORCADO": [],
+    "ANGRMTST": [],
+    "LAWRENCE": [],
+    "NY10F": [],
+    "FUPRCO": [],
+    "AE5A1": [
+        "bubble-cup-6-round-1"
+    ],
+    "LEAKCONT": [],
+    "MULPAL": [],
+    "COWWORDS": [],
+    "FCSYS": [
+        "hangzhou-2008"
+    ],
+    "AVCHESS": [],
+    "AE4B": [],
+    "MOON2": [],
+    "DCEPC810": [],
+    "GEMS": [],
+    "DOUTI": [],
+    "PROBMOR": [],
+    "SHORTCIR": [],
+    "PIHEX2": [],
+    "SPLIT": [],
+    "NUMTRY": [
+        "fast-prime-factorization"
+    ],
+    "TAP2012G": [],
+    "SLALOM2": [],
+    "PUCMM335": [],
+    "EE4371": [],
+    "DCEPC14H": [],
+    "CRYPTO7": [
+        "shanghai-2009"
+    ],
+    "HNSUBWAY": [],
+    "PARTY2": [],
+    "ADATOMEL": [],
+    "URJC2_B": [],
+    "DARKASLT": [],
+    "TPC07": [],
+    "ULM02C": [],
+    "PERIOD2": [],
+    "RDRUG": [],
+    "DTPOLY": [],
+    "LISTREE": [
+        "tree"
+    ],
+    "STRINGQ": [],
+    "MPOLEVAL": [],
+    "ASUMEXTR": [
+        "math",
+        "lagrange-interpolation"
+    ],
+    "VPL2_BE": [],
+    "DISGRAPH": [
+        "graph-theory",
+        "min-cut",
+        "graph"
+    ],
+    "JERRY": [
+        "newyear2017"
+    ],
+    "BOBALLS": [],
+    "MAGIC4": [],
+    "UNTITLED": [],
+    "CCROSSX": [],
+    "GOLDG": [],
+    "AE5A2": [],
+    "CAKE3": [],
+    "RZSCSRVC": [],
+    "SIGNPOST": [],
+    "MOVEBOOK": [],
+    "POLYU": [],
+    "LPRISON": [],
+    "CTOI10D1": [],
+    "MSE06E": [],
+    "FORMAT": [],
+    "CDC12_A": [],
+    "DIVIDEKR": [],
+    "GNTFNTN": [],
+    "KMEDIAL": [],
+    "DRWLNS": [
+        "datastructures"
+    ],
+    "SPACESHIP": [],
+    "JUSTAPAL": [
+        "string-matching"
+    ],
+    "PITPAIR": [],
+    "FERRY": [],
+    "AE4A": [],
+    "STRSOCU": [],
+    "UVA1": [],
+    "NPC2015E": [],
+    "POP1": [
+        "primality-test"
+    ],
+    "MORPH": [],
+    "CANDY4": [],
+    "AHASH": [
+        "hashing",
+        "randomized-algorithm",
+        "meet-in-the-middle-optimization"
+    ],
+    "IBONEC": [],
+    "PRIZES": [],
+    "CODESPTH": [],
+    "QTGIFT3": [],
+    "MSET": [],
+    "SPWORLD": [],
+    "GRAFFTOL": [],
+    "TREESIM": [],
+    "SCELL": [],
+    "POP3": [
+        "primality-test"
+    ],
+    "NITT1": [],
+    "STRGAMB": [],
+    "PALPRIM": [
+        "binary-search",
+        "primality-test",
+        "precalculation"
+    ],
+    "PERMTGEN": [],
+    "COMPLEX2": [],
+    "FN16SWAP": [],
+    "CLONES": [],
+    "RAIN2": [],
+    "BGAME": [],
+    "MTRGAME": [],
+    "NONDEC": [],
+    "MRAVOGRA": [],
+    "ALPHSOUP": [],
+    "DCEPC203": [
+        "sieve"
+    ],
+    "VECTAR14": [],
+    "EC_SER": [],
+    "BGTSTR": [],
+    "BG2": [],
+    "MINTRIAN": [],
+    "FIBFACT": [],
+    "MAY99_1": [],
+    "ARCHPLG": [
+        "graph-theory",
+        "dijkstra-s-algorithm",
+        "plane-geometry"
+    ],
+    "BOILING": [],
+    "BANNER": [],
+    "YOUWIN": [],
+    "PONY4": [],
+    "PRTYNGHT": [],
+    "EXPER": [],
+    "PONY5": [],
+    "CLZSTRNG": [],
+    "DCEPC200": [],
+    "RSTAURNT": [],
+    "CTPLUCKY": [],
+    "LUCKY": [],
+    "MKOKOS": [],
+    "LOGIC2": [],
+    "MCONSTR": [],
+    "SETCOV": [],
+    "AMR10B": [],
+    "SKISLOPE": [],
+    "HK": [],
+    "IFCHAIN": [],
+    "DUKKAR2": [],
+    "DIVFIBS2": [],
+    "HHAND": [],
+    "PCOPTRIP": [
+        "adhoc",
+        "sub-quadratic"
+    ],
+    "MKTHPATH": [],
+    "UCBINTI": [],
+    "TPCPALIN": [],
+    "NPC2014H": [
+        "math",
+        "matrix"
+    ],
+    "OU7": [],
+    "JPIX": [],
+    "HERE": [],
+    "NTH1": [
+        "simple-math",
+        "tutorial"
+    ],
+    "HISTORY": [
+        "hangzhou-2008"
+    ],
+    "CHEATCON": [],
+    "DOJ1": [],
+    "SPACEBRG": [],
+    "GCJ102B": [],
+    "GRIDPNTS": [],
+    "RMOVIE": [],
+    "VPL2_AB": [],
+    "DCEPC14C": [],
+    "WPC5H": [],
+    "TOWER": [],
+    "ICCSECRET": [],
+    "POP2": [
+        "primality-test"
+    ],
+    "HS12PRIM": [
+        "number-theory"
+    ],
+    "CAPPIZZA": [],
+    "UCV2013G": [],
+    "TILE001": [],
+    "NUMG": [],
+    "ADAPHONE": [
+        "sorting",
+        "tree",
+        "algorithm",
+        "sweep"
+    ],
+    "MCLEAN": [],
+    "CALCULAT": [],
+    "SECSYS": [],
+    "ADV04K": [],
+    "GOODH": [],
+    "CNHARD": [],
+    "ACPC13": [],
+    "ASISTENT": [],
+    "XC": [
+        "fft-2"
+    ],
+    "TAXI2": [
+        "shortest-path",
+        "matching"
+    ],
+    "BOI02TRI": [],
+    "BINDEC": [],
+    "UCV2013F": [],
+    "DCEPC14D": [],
+    "MNIU": [],
+    "DICE": [],
+    "SYM12": [],
+    "WWAKER": [],
+    "MMMAGIC5": [],
+    "PONY3": [],
+    "PTC": [],
+    "MOZHCAN": [],
+    "BLOCKDRO": [],
+    "DEV_CP": [
+        "binary-tree",
+        "datastructures"
+    ],
+    "PATT": [],
+    "HC12II": [],
+    "ICC": [],
+    "PKD": [],
+    "CT101CC": [],
+    "MONSTER": [],
+    "BLMIRANA": [
+        "geometry"
+    ],
+    "COLOR_CC": [],
+    "TEMPLE01": [],
+    "CNURI18H": [],
+    "TMB": [],
+    "OVERLAP": [],
+    "LEMON": [],
+    "WHEN": [
+        "bubble-cup-9-round-2"
+    ],
+    "GRAFFTRI": [],
+    "AMR12F": [],
+    "VISION": [],
+    "PAINTWAL": [],
+    "MOVMRBL": [
+        "bubble-cup-8-round-2"
+    ],
+    "OVICUMSUM": [],
+    "ENEMY": [],
+    "IE5": [],
+    "RNDORDER": [],
+    "IMGREC2": [
+        "bubble-cup-7-round-2"
+    ],
+    "SDGAME": [],
+    "ANALYSER": [],
+    "DCEPC13F": [],
+    "KIMO4": [],
+    "CNTTEAMS": [],
+    "WRLUNCH": [
+        "bubble-cup-9-round-2"
+    ],
+    "RLTHREE": [
+        "combinatorics"
+    ],
+    "SENSORNT": [],
+    "ANIL_PRO": [],
+    "SHILL": [],
+    "OHANIBTR": [],
+    "JC15B": [],
+    "EARTHQK": [],
+    "EXLAGFIB": [
+        "generating-function"
+    ],
+    "NUMVN": [],
+    "UQAS": [],
+    "FAKESCOR": [],
+    "MINI": [],
+    "MPOLGRID": [],
+    "NUMTH02": [],
+    "KHAOTMPL": [],
+    "IITWPC4G": [
+        "matrix"
+    ],
+    "KTRANS": [],
+    "AIRLINE2": [],
+    "GOSTONES": [],
+    "SALESMAN": [],
+    "MTETRA": [],
+    "ADV04E": [],
+    "GCOOP": [],
+    "WALL": [],
+    "FILTER": [],
+    "FLOWERS": [],
+    "RSORTING": [],
+    "BUNDLE": [],
+    "TAP2016D": [],
+    "TLPNGEM2": [],
+    "JAN": [],
+    "MONO": [],
+    "ANARC07J": [],
+    "FOUROW": [],
+    "LAND": [],
+    "MENMARS": [],
+    "WARE": [],
+    "PALOVE": [],
+    "BAPPP": [
+        "graph-116"
+    ],
+    "FBTOURS": [],
+    "CLCKBAIT": [
+        "dfs"
+    ],
+    "PUCMM333": [],
+    "REVADD": [
+        "adhoc",
+        "bubble-cup-9-round-2"
+    ],
+    "DABRI001": [
+        "dynamic-programming"
+    ],
+    "IMITATE": [],
+    "PONY9": [],
+    "DSUBMTR": [],
+    "HC12III": [],
+    "GUERNICA": [],
+    "ACRYM2": [
+        "dynamic-programming",
+        "string-matching",
+        "trie-1"
+    ],
+    "TELECOM": [],
+    "ACRYM": [],
+    "CLOCK1": [],
+    "SNGNM2": [],
+    "SERCOVERAGE": [],
+    "WPC5G": [],
+    "RECTANGLE": [],
+    "PNTBYNUM": [],
+    "LPRIME": [
+        "matrix"
+    ],
+    "SMARIO": [
+        "bfs",
+        "bitmasks"
+    ],
+    "COLORCAT": [],
+    "PFOLD": [],
+    "RPSWAR": [],
+    "CLZBICYC": [],
+    "UOFTBE": [],
+    "POWTREE": [
+        "segment-tree-1"
+    ],
+    "HARSTR": [],
+    "BANSTAND": [
+        "math",
+        "combinatorics",
+        "probability-theory",
+        "linearity-of-expectation",
+        "fast-fourier-transformation"
+    ],
+    "PONY6": [],
+    "ISRANK": [],
+    "MELAR10": [],
+    "DRIVE": [],
+    "BTCODE_J": [],
+    "CTPDIRTY": [],
+    "CODHASH": [],
+    "PUZZLE24": [],
+    "MEMDIS": [],
+    "ORZ": [],
+    "CLZDOUGH": [],
+    "ADAHLIA": [],
+    "EXCHANGE": [],
+    "DIVISER9": [],
+    "JEWELS": [],
+    "HS12MULT": [],
+    "BLSUMSEQ": [],
+    "LEXIPOS": [],
+    "MEXICAN": [],
+    "ARCHI": [],
+    "PHONELIN": [],
+    "JZPLIT2": [
+        "bubble-cup-8-round-2"
+    ],
+    "SLAST": [],
+    "PRIMEP": [],
+    "RECPWSUM": [
+        "combinatorics",
+        "generating-function",
+        "matrixexpo",
+        "binets-formula"
+    ],
+    "RTREE3": [
+        "tree"
+    ],
+    "SANTA3": [],
+    "ADAPARTY": [
+        "probability-theory",
+        "np-hard",
+        "datastructures"
+    ],
+    "WRP": [],
+    "ACHESS": [],
+    "VPL1_AA": [],
+    "CIRCUITS": [],
+    "WALLSPRO": [],
+    "WAR": [],
+    "PODUZECE": [],
+    "GAMECG": [],
+    "INBOX": [],
+    "GNUM": [],
+    "HACK14": [],
+    "NPOWM": [],
+    "KAYKAY": [],
+    "FRSKH": [
+        "bubble-cup-6-round-2"
+    ],
+    "UCV2013D": [],
+    "VPL1_AE": [],
+    "PUTIN": [],
+    "ZIGZAG2": [],
+    "CODESPTI": [],
+    "RDR2_1": [
+        "graph-theory",
+        "bfs"
+    ],
+    "HOMEC": [],
+    "SQRPERF": [],
+    "LOSTCT": [],
+    "GARDEN": [],
+    "LMCONSTR": [],
+    "FWFUNC": [
+        "bubble-cup-7-round-2"
+    ],
+    "MARSCOL": [],
+    "MANJFIRE": [],
+    "BRLRIDER": [],
+    "FN16QUOT": [],
+    "FTOUR": [],
+    "COPSEQ": [],
+    "PK11E": [],
+    "ECLIPSE": [
+        "bubble-cup-9-round-2"
+    ],
+    "TRACTOR": [
+        "shanghai-2009"
+    ],
+    "SHMOOGLE": [],
+    "TRAIN07": [],
+    "CURSE": [],
+    "STRANG": [],
+    "PFACTORS": [],
+    "BOI7FEN": [],
+    "SUMPRIM2": [],
+    "REDCROSS": [],
+    "STICKS": [],
+    "PTR2": [],
+    "INS14M": [],
+    "DORTMUND": [],
+    "HAGU": [],
+    "SCCCER": [],
+    "PALINDNA": [],
+    "VZLA2019F": [],
+    "BANDMATR": [
+        "matrix"
+    ],
+    "SQFFACT": [],
+    "SQ2SQ": [],
+    "ADAZOO": [
+        "dynamic-programming"
+    ],
+    "SPATHS": [],
+    "TUPLEDIV": [],
+    "STRDIST2": [],
+    "BULLETIN": [],
+    "INC2015F": [],
+    "FIBPWSUM": [
+        "combinatorics",
+        "linear-recurrence",
+        "matrixexpo",
+        "berlekamp-massey"
+    ],
+    "TDOWN": [],
+    "TRIP2": [],
+    "GCC8TRNT": [],
+    "ROT": [],
+    "STC01": [],
+    "TWOCIR": [],
+    "ESCAPE1": [],
+    "TRANSJ": [],
+    "RPLM": [],
+    "HPREFIX": [],
+    "ADABASH": [
+        "graph",
+        "bash"
+    ],
+    "SUFFIX": [
+        "number-theory"
+    ],
+    "SIOKULE": [],
+    "DOMINO8": [],
+    "TRENOLOT": [],
+    "TAP2016B": [],
+    "EVENSEMIP": [],
+    "FACTMODP": [
+        "number-theory",
+        "fft-2",
+        "polynomial-multiplication",
+        "lagrange-interpolation",
+        "bostan-gaudry-schost-2"
+    ],
+    "CNTPATHS": [],
+    "HARDP": [],
+    "ADAHOSE": [
+        "min-cut"
+    ],
+    "DOJ2": [],
+    "BOX": [],
+    "SEGFAULT": [],
+    "MFARM": [],
+    "RECTNG2": [],
+    "DCEPC12F": [],
+    "SALES": [],
+    "DIST2": [],
+    "KOLACI": [],
+    "FINDLR": [
+        "linear-recurrence",
+        "berlekamp-massey",
+        "reeds-sloane",
+        "linear-equations"
+    ],
+    "DEJAVU": [
+        "hangzhou-2008"
+    ],
+    "SPAM_ATX": [],
+    "FN16ASGN": [],
+    "CHIGAME": [],
+    "GRIDSUM1": [],
+    "RDINNER": [],
+    "TETRISGM": [],
+    "MCIRCLE": [],
+    "PIBO2": [],
+    "IOIBOUND": [],
+    "MAPEXC": [],
+    "RESOURCE": [],
+    "GRIMM": [],
+    "STC05": [],
+    "TAHSINREC": [],
+    "PK11I": [],
+    "ADV04H": [],
+    "SKIVER1": [],
+    "ELLIPSE": [],
+    "SOMESUMS": [],
+    "DCEPC11C": [],
+    "RPLJ": [],
+    "EXPR4": [],
+    "FACTMULM": [],
+    "SLINK": [],
+    "BSMATH2": [],
+    "RKMINIMA": [
+        "math",
+        "adhoc"
+    ],
+    "LINQSOLV": [],
+    "ABWORDS": [
+        "bubble-cup-6-round-2"
+    ],
+    "MINES4": [],
+    "PHU09K": [],
+    "DSUBTREE": [],
+    "JZPSTA": [],
+    "MKMOOM": [],
+    "COPSEQH": [],
+    "ENCODE": [],
+    "GUARD": [],
+    "PARAG": [],
+    "ADALEMON": [],
+    "JOLLYKINGDOM": [],
+    "POTATOPL": [],
+    "FN16BASE": [],
+    "SHUFFLE1": [],
+    "GETFAST": [],
+    "DIXDOOM": [],
+    "DYEL": [],
+    "STUN": [],
+    "HALD": [],
+    "HCMUS20A": [],
+    "TINKUJOB": [],
+    "SHUFFLEK": [],
+    "CARINA": [],
+    "THEWAR": [
+        "dynamic-programming",
+        "graph"
+    ],
+    "ADAFEAR": [],
+    "MOUNTAIN": [],
+    "TAP2014D": [],
+    "AKVOD06": [],
+    "TANKS": [],
+    "PT07G": [],
+    "INDEPCNT": [],
+    "ACPC11D": [],
+    "DOMECIR": [],
+    "BLOCK_D": [],
+    "STC07": [],
+    "CPDUEL5C": [],
+    "COOLPROB": [],
+    "TAP2015I": [],
+    "TAP2016I": [],
+    "ADACROW": [
+        "np-hard",
+        "branch-and-bound",
+        "kernel"
+    ],
+    "SELECTION": [
+        "sorting",
+        "datastructures"
+    ],
+    "GCATC": [
+        "dynamic-programming"
+    ],
+    "CHUNK1": [],
+    "MIUTGA": [],
+    "CHEATING": [],
+    "DEC123": [],
+    "GCJ121CC": [],
+    "ADASEED": [
+        "algorithm"
+    ],
+    "IITWPC4L": [],
+    "NCOPRIME": [],
+    "BLUEEQ": [
+        "bubble-cup-6-round-2"
+    ],
+    "BORING2": [],
+    "PAIRDIV2": [
+        "math",
+        "fast-moebius-transform"
+    ],
+    "AR2015PC": [],
+    "SWAP_ESY": [],
+    "PRISTOJBA": [],
+    "DCEPC12D": [],
+    "XORRAY": [],
+    "ADAGAME5": [],
+    "GCOM": [
+        "segment-tree-386"
+    ],
+    "SRTMACH": [],
+    "DTPOLY2": [],
+    "BOXD": [],
+    "ILOVEGEO": [],
+    "QSTABLE": [],
+    "ADV04G1": [],
+    "HFLY": [],
+    "FRACTAL": [],
+    "TAP2016K": [],
+    "TIP2": [],
+    "PHU09H": [],
+    "FN16DIET": [],
+    "ADAGROW": [],
+    "VNACM14H": [],
+    "ULM2H": [],
+    "TQ": [],
+    "STC08": [],
+    "VBWORK": [],
+    "COLDIAM": [],
+    "MCOMP": [],
+    "RANAGIC": [
+        "probability-theory",
+        "dynamic-programming"
+    ],
+    "GIFTARNG": [],
+    "PERIOD4": [],
+    "VORONOI": [],
+    "PT07H": [],
+    "LOCKKEY": [],
+    "UCF": [],
+    "OFBEAT": [],
+    "DOM": [],
+    "PROB01": [],
+    "KONSTRAKSCHION": [
+        "geometry"
+    ],
+    "JPM2": [
+        "number-theory",
+        "fast-fourier-transformation"
+    ],
+    "TKV1000": [],
+    "PERFECTR": [],
+    "PERIOD1": [],
+    "GCJ102A": [],
+    "FOXWOLF": [],
+    "BMASTER": [],
+    "XOREQ": [],
+    "CRAZYR": [],
+    "ADALICI": [
+        "tree",
+        "ancestor"
+    ],
+    "PYTRIP3": [
+        "math",
+        "sub-linear"
+    ],
+    "DCEPC12J": [],
+    "KN2": [
+        "bubble-cup-10-round-2"
+    ],
+    "GCJ102C": [],
+    "MACHMAY": [
+        "matrix"
+    ],
+    "ADDMUL": [],
+    "DCEPC14F": [],
+    "ADITYA13": [],
+    "CUSTOMSL": [],
+    "CODESPTE": [],
+    "PERIODIC": [],
+    "SEQFUN": [],
+    "PAIRSORT": [],
+    "ZEROCNT": [],
+    "CATDOG": [],
+    "TRANSP1": [],
+    "PRIMEPOW": [],
+    "STC09": [],
+    "MYQ11": [],
+    "STC06": [],
+    "SNIM": [],
+    "NHP": [],
+    "ICKAPLSB": [],
+    "OGLEDALA": [],
+    "ADAXMAS": [],
+    "Z124": [],
+    "WONKA1": [],
+    "MXSBMTRX": [],
+    "NNS": [],
+    "DNAOFELF": [
+        "bitmasks"
+    ],
+    "UCBINTD": [],
+    "TRFPLN": [],
+    "REMOVE": [],
+    "PERIOD5": [
+        "bubble-cup-10-round-2"
+    ],
+    "LIFERACE": [],
+    "CARRALLY": [],
+    "NESPALIN": [],
+    "ZQUERY2": [],
+    "FN16CLK": [],
+    "MADHULK": [],
+    "SPAMD": [],
+    "MAX2214": [],
+    "SCIENCE": [],
+    "HAALPHA": [],
+    "UNLOCK": [],
+    "JITU": [],
+    "KEQ": [],
+    "ZEBRA": [],
+    "TEAPARTY": [
+        "segment-tree-1"
+    ],
+    "SPA": [],
+    "BOXLINGS": [],
+    "ELECTRO": [],
+    "HIDTRI": [],
+    "BRAILLE": [],
+    "FOREST": [
+        "bubble-cup-9-round-2"
+    ],
+    "PERIOD3": [],
+    "FORMAT1": [],
+    "WPC5C": [],
+    "MATRMUL0": [
+        "matrix"
+    ],
+    "CONCAVE": [],
+    "CTSTRING": [],
+    "CAVE2": [],
+    "JC15D": [],
+    "RETDIG": [],
+    "MESS": [],
+    "PSERVICE": [],
+    "CYLINDES": [],
+    "BEANGAME": [],
+    "UCBINTJ": [],
+    "HEROARR": [
+        "shanghai-2009"
+    ],
+    "RUMMY": [],
+    "DCEPCA08": [],
+    "PC8C": [],
+    "BALANCE1PARA": [],
+    "ADAROADS": [
+        "datastructures"
+    ],
+    "URI": [],
+    "MNE07": [],
+    "EXAMPLE": [],
+    "BHAGO": [],
+    "PC8H": [],
+    "HS09SHIP": [],
+    "EOWAMRT": [],
+    "GALACDIV": [
+        "plane-geometry"
+    ],
+    "ADV04C": [],
+    "AR2015PE": [],
+    "PLOT1": [],
+    "ONTIME": [],
+    "CHECKMEET": [
+        "recursion",
+        "hash-table",
+        "hashing",
+        "bitmasks",
+        "chess",
+        "inclusion-exclusion",
+        "meet-in-the-middle-optimization"
+    ],
+    "ONORIVER1": [],
+    "MYQ9": [],
+    "SONG": [],
+    "MEPPERM": [],
+    "VPL1_AD": [],
+    "TRI2": [],
+    "ELEC": [
+        "bubble-cup-8-round-2"
+    ],
+    "DAP": [],
+    "JTRIP": [],
+    "HERBICID": [],
+    "ENVIRON": [],
+    "FCTRHELL": [],
+    "OIL": [],
+    "MACVSMAG": [],
+    "RPLI": [],
+    "PROJECTILE": [
+        "binary-search"
+    ],
+    "DEXTER": [],
+    "YOKOC": [],
+    "NEKAMELEONI": [],
+    "FZ10B": [],
+    "BNMT": [],
+    "SHUFFLEN": [],
+    "FN16RIVER": [],
+    "WEAKSMK": [],
+    "BASECONV": [],
+    "LASERTAG": [],
+    "FAST_BF": [],
+    "CARD": [],
+    "TERMITES": [],
+    "HAL9000": [],
+    "NPC2015F": [],
+    "NPC2015B": [],
+    "CSTATE1": [],
+    "MEETINGS": [],
+    "SELLINGA": [],
+    "EGCJPURE": [],
+    "HELPER": [],
+    "CFATHER": [],
+    "NAJBB": [],
+    "AFS3": [
+        "convex-hull",
+        "stern-brocot-tree"
+    ],
+    "HEADBANG": [],
+    "NPC2016E": [],
+    "ROUTING": [],
+    "HUNT1": [],
+    "PC8F": [],
+    "NEO2": [],
+    "HATEAM": [],
+    "BIO": [
+        "bubble-cup-8-round-2"
+    ],
+    "LCKYCONT": [],
+    "RAMP": [],
+    "FUKU11G": [],
+    "MDT1": [],
+    "INTDSET2": [
+        "dynamic-programming",
+        "bitmasks"
+    ],
+    "WIMB": [],
+    "IDO": [],
+    "BERNULLI": [
+        "simple-math",
+        "math",
+        "number-theory"
+    ],
+    "ULM02B": [],
+    "NWERC05": [],
+    "OVOXO": [],
+    "SANVI": [],
+    "FIBPSUM2": [],
+    "Z124H": [],
+    "PGCD2": [],
+    "SUPSUP": [],
+    "AVMG2": [],
+    "SIMPLEPATH": [],
+    "TGCD2": [],
+    "MAHJONG": [],
+    "NBLTHIEF": [],
+    "CABLEXPR": [
+        "hangzhou-2008"
+    ],
+    "NOTOKNOT": [],
+    "AR2015PH": [],
+    "HC10000": [],
+    "ICERINK": [],
+    "ADACITRS": [],
+    "KEQUALITY": [
+        "graph-theory",
+        "tree",
+        "datastructures"
+    ],
+    "ANDQQ": [
+        "dynamic-programming",
+        "bitmasks",
+        "walsh-hadamard"
+    ],
+    "NEWH": [],
+    "VZLA2019L": [],
+    "MCU20E": [],
+    "POCALC1": [],
+    "VAL_GAM4": [],
+    "SHAREIT": [],
+    "BLCATS": [],
+    "TIP3": [],
+    "MOSTYCOD": [],
+    "FALLINGI": [],
+    "CGW": [],
+    "ROBIN": [],
+    "SPP2": [],
+    "GRAPH2": [
+        "sub-quadratic"
+    ],
+    "HELPCOMM": [],
+    "PGTV": [],
+    "JOCTENIS": [],
+    "YOKOH": [],
+    "DCES": [],
+    "TAP2015E": [],
+    "BFONP": [],
+    "SWAP_HRD": [
+        "bubble-cup-9-round-2"
+    ],
+    "SWAP_MED": [],
+    "BFMUL": [],
+    "VPL1_AC": [],
+    "SBW": [],
+    "ACAB": [],
+    "KNIGHTSG": [],
+    "RS2D": [],
+    "FLATAND": [],
+    "BUD13TLB": [],
+    "RECTMAT": [],
+    "BBM": [],
+    "BOKO": [],
+    "FN16ROAD": [],
+    "GNYR04I": [],
+    "AR2015PF": [],
+    "HARANGES": [],
+    "SHOOTING": [],
+    "PRIMPOW2": [],
+    "INS16H": [],
+    "POLYTABL": [],
+    "SUMMING": [],
+    "CRAZY": [],
+    "LUTRIJA": [],
+    "FBWHEELS": [],
+    "HOUSEBUY": [
+        "brute-force",
+        "backtracking",
+        "optimization",
+        "manhattan-distance",
+        "pruning"
+    ],
+    "ISUN1": [],
+    "LANDING": [],
+    "ILLUM": [
+        "bubble-cup-7-round-2"
+    ],
+    "HS10RMSY": [],
+    "JZPFOR": [],
+    "BEGIN": [],
+    "GENETIC2": [],
+    "PBBN2": [],
+    "SPY2": [],
+    "THFANDM": [],
+    "BOULDER": [],
+    "FN16MARS": [],
+    "CHA": [],
+    "INTDSET": [
+        "dynamic-programming",
+        "datastructures"
+    ],
+    "CSTATE3": [],
+    "CSTATE2": [],
+    "MATPROD": [],
+    "A001856": [
+        "adhoc"
+    ],
+    "NE06D": [],
+    "GHALIBC": [],
+    "TPORT": [],
+    "ZZPERM2": [],
+    "WM06": [
+        "bubble-cup-7-round-2"
+    ],
+    "GLGRID": [],
+    "CAKE4": [],
+    "CS": [],
+    "MUZIDA": [],
+    "DEPARTJ": [],
+    "WITTYBOY": [],
+    "LUCISORT": [],
+    "BFDIV": []
 }
